@@ -1,4 +1,4 @@
-#functions with parameters
+# functions with parameters
 def add(student1,student2):
     return student1+student2
 student1=int(input("enter the money"))
